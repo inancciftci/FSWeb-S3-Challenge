@@ -133,8 +133,7 @@ table {
 }
 
 html {
-  max-width: 1920px;
-  min-width: 428px;
+  max-width: 100vw;
   font-size: 62.5%;
 }
 
@@ -298,7 +297,7 @@ footer {
     background-image: none;
     background-color: white;
     color: black;
-    width: 100vw;
+    width: 100%;
   }
 
   .menu h2 {

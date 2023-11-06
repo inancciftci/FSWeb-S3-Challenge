@@ -332,6 +332,8 @@ footer {
   display: flex;
   justify-content: space-between;
   padding: 1rem;
+  width: 90vw;
+  margin: 0 auto;
 }
 
 .right {
